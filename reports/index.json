@@ -1,8 +1,41 @@
 {
   "colorPalette": "amber-warm",
-  "glassSurfaces": false,
+  "glassSurfaces": true,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260807-074641-qexy",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-07T13:46:41.000Z",
+      "dateEnd": "2026-08-07T14:59:52.000Z",
+      "dateLabel": "8/7/2026, 7:46:41 AM - 8/7/2026, 8:59:52 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260807-074641-qexy",
+      "summary": {
+        "borderlandsPct": 0.07246376811594203,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 64,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20260806-175824-ezg8",
       "title": "Virtuous Claps",
