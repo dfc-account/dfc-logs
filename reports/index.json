@@ -1,0 +1,35 @@
+{
+  "colorPalette": "amber-warm",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260806-170130-gq4p",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-08-06T23:01:30.000Z",
+      "dateEnd": "2026-08-07T01:14:57.000Z",
+      "dateLabel": "8/6/2026, 5:01:30 PM - 8/6/2026, 7:14:57 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260806-170130-gq4p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 38
+      }
+    }
+  ]
+}
