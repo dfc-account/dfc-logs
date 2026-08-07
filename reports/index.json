@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-093330-1g03",
+      "title": "Carvis Ona Enge, Carvis Onachrono",
+      "commanders": [
+        "Carvis Ona Enge",
+        "Carvis Onachrono"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-06T15:33:30.000Z",
+      "dateEnd": "2026-08-06T16:02:21.000Z",
+      "dateLabel": "8/6/2026, 9:33:30 AM - 8/6/2026, 10:02:21 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260806-093330-1g03",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260806-170130-gq4p",
       "title": "Virtuous Claps",
       "commanders": [
