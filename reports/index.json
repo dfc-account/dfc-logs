@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-053138-a76k",
+      "title": "Carvis Onachrono, Carvista",
+      "commanders": [
+        "Carvis Onachrono",
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-08T11:31:38.000Z",
+      "dateEnd": "2026-08-08T12:54:22.000Z",
+      "dateLabel": "8/8/2026, 5:31:38 AM - 8/8/2026, 6:54:22 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260808-053138-a76k",
+      "summary": {
+        "borderlandsPct": 0.25,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260807-203521-r9c4",
       "title": "Virtuous Claps",
       "commanders": [
