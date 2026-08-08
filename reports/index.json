@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-203521-r9c4",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-08-08T02:35:21.000Z",
+      "dateEnd": "2026-08-08T03:39:46.000Z",
+      "dateLabel": "8/7/2026, 8:35:21 PM - 8/7/2026, 9:39:46 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260807-203521-r9c4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260807-132809-3w7x",
       "title": "Mike Hits Different",
       "commanders": [
