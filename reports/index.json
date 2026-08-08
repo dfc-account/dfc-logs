@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-131136-kra2",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-08T19:11:36.000Z",
+      "dateEnd": "2026-08-08T20:15:31.000Z",
+      "dateLabel": "8/8/2026, 1:11:36 PM - 8/8/2026, 2:15:31 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260808-131136-kra2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260808-053138-a76k",
       "title": "Carvis Onachrono, Carvista",
       "commanders": [
