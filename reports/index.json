@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-031733-98g4",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-08-09T09:17:33.000Z",
+      "dateEnd": "2026-08-09T10:01:56.000Z",
+      "dateLabel": "8/9/2026, 3:17:33 AM - 8/9/2026, 4:01:56 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260809-031733-98g4",
+      "summary": {
+        "borderlandsPct": 0.16666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260808-170659-euow",
       "title": "Cocoro Angel",
       "commanders": [
