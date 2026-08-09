@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-045716-azot",
+      "title": "Agent Cortana, Carvista",
+      "commanders": [
+        "Agent Cortana",
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-09T10:57:16.000Z",
+      "dateEnd": "2026-08-09T12:16:53.000Z",
+      "dateLabel": "8/9/2026, 4:57:16 AM - 8/9/2026, 6:16:53 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260809-045716-azot",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260809-031733-98g4",
       "title": "Virtuous Claps",
       "commanders": [
