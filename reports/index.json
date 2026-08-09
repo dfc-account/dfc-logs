@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-090517-aa0w",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-09T15:05:17.000Z",
+      "dateEnd": "2026-08-09T15:55:48.000Z",
+      "dateLabel": "8/9/2026, 9:05:17 AM - 8/9/2026, 9:55:48 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260809-090517-aa0w",
+      "summary": {
+        "borderlandsPct": 0.125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260809-045716-azot",
       "title": "Agent Cortana, Carvista",
       "commanders": [
