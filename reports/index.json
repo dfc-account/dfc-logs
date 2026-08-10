@@ -1,8 +1,42 @@
 {
-  "colorPalette": "crimson-red",
+  "colorPalette": "amber-warm",
   "glassSurfaces": true,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260810-055545-0jma",
+      "title": "Carvis Onachrono, Carvista",
+      "commanders": [
+        "Carvis Onachrono",
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-10T11:55:45.000Z",
+      "dateEnd": "2026-08-10T13:09:55.000Z",
+      "dateLabel": "8/10/2026, 5:55:45 AM - 8/10/2026, 7:09:55 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260810-055545-0jma",
+      "summary": {
+        "borderlandsPct": 0.09523809523809523,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 24
+      }
+    },
     {
       "id": "20260809-221520-yul4",
       "title": "Unknown Commander",
