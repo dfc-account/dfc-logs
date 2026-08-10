@@ -1,8 +1,34 @@
 {
-  "colorPalette": "amber-warm",
+  "colorPalette": "crimson-red",
   "glassSurfaces": true,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260809-221520-yul4",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-08-10T04:15:20.000Z",
+      "dateEnd": "2026-08-10T04:23:48.000Z",
+      "dateLabel": "8/9/2026, 10:15:20 PM - 8/9/2026, 10:23:48 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260809-221520-yul4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 1,
+        "avgEnemySize": 17
+      }
+    },
     {
       "id": "20260809-090517-aa0w",
       "title": "Carvista",
