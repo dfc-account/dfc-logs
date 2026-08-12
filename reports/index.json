@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260812-153024-2kgf",
+      "title": "Lightbeam Jack",
+      "commanders": [
+        "Lightbeam Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-12T21:30:24.000Z",
+      "dateEnd": "2026-08-12T22:07:39.000Z",
+      "dateLabel": "8/12/2026, 3:30:24 PM - 8/12/2026, 4:07:39 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260812-153024-2kgf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260812-080305-x1ga",
       "title": "Carvista",
       "commanders": [
