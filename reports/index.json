@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260812-164631-y4np",
+      "title": "Clappy Murdercakes, Virtuous Claps",
+      "commanders": [
+        "Clappy Murdercakes",
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-08-12T22:46:31.000Z",
+      "dateEnd": "2026-08-12T23:37:00.000Z",
+      "dateLabel": "8/12/2026, 4:46:31 PM - 8/12/2026, 5:37:00 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260812-164631-y4np",
+      "summary": {
+        "borderlandsPct": 0.7575757575757576,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260812-153024-2kgf",
       "title": "Lightbeam Jack",
       "commanders": [
