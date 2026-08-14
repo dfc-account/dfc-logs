@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260813-170744-qpfy",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-08-13T23:07:44.000Z",
+      "dateEnd": "2026-08-14T00:19:31.000Z",
+      "dateLabel": "8/13/2026, 5:07:44 PM - 8/13/2026, 6:19:31 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260813-170744-qpfy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260813-080945-w1qg",
       "title": "Carvista",
       "commanders": [
