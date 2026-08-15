@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-200731-1ibk",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-08-15T02:07:31.000Z",
+      "dateEnd": "2026-08-15T03:21:57.000Z",
+      "dateLabel": "8/14/2026, 8:07:31 PM - 8/14/2026, 9:21:57 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260814-200731-1ibk",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260814-180527-dy45",
       "title": "Virtuous Claps",
       "commanders": [
