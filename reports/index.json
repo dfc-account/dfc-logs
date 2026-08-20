@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260819-191146-e9pf",
+      "title": "Pretty Humner",
+      "commanders": [
+        "Pretty Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-08-20T01:11:46.000Z",
+      "dateEnd": "2026-08-20T02:04:29.000Z",
+      "dateLabel": "8/19/2026, 7:11:46 PM - 8/19/2026, 8:04:29 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260819-191146-e9pf",
+      "summary": {
+        "borderlandsPct": 0.4,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260819-171108-3jsa",
       "title": "Virtuous Claps",
       "commanders": [
