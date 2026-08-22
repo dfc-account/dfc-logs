@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-105905-8glv",
+      "title": "Clappy Murdercakes",
+      "commanders": [
+        "Clappy Murdercakes"
+      ],
+      "guild": {
+        "id": "4E8B2FE5-044F-F011-81AC-95DFE50946EB",
+        "name": "One Moar",
+        "tag": "FITE"
+      },
+      "dateStart": "2026-08-22T16:59:05.000Z",
+      "dateEnd": "2026-08-22T17:37:28.067Z",
+      "dateLabel": "8/22/2026, 10:59:05 AM - 8/22/2026, 11:37:28 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260822-105905-8glv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260821-201905-c545",
       "title": "Lumpia Humner, Virtuous Claps",
       "commanders": [
