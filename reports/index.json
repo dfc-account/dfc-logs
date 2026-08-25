@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-172449-5pli",
+      "title": "Vikshoots",
+      "commanders": [
+        "Vikshoots"
+      ],
+      "guild": {
+        "id": "7CD73347-EE0B-E611-80D4-E4115BD058A1",
+        "name": "Eyes On The Prize",
+        "tag": "YaK"
+      },
+      "dateStart": "2026-08-24T23:24:49.000Z",
+      "dateEnd": "2026-08-25T00:29:19.061Z",
+      "dateLabel": "8/24/2026, 5:24:49 PM - 8/24/2026, 6:29:19 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260824-172449-5pli",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260822-181303-c1cc",
       "title": "Lumpia Humner, Vikshoots",
       "commanders": [
