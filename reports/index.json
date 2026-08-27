@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-161110-thxs",
+      "title": "Vikshoots",
+      "commanders": [
+        "Vikshoots"
+      ],
+      "guild": {
+        "id": "7CD73347-EE0B-E611-80D4-E4115BD058A1",
+        "name": "Eyes On The Prize",
+        "tag": "YaK"
+      },
+      "dateStart": "2026-08-27T22:11:10.000Z",
+      "dateEnd": "2026-08-27T23:09:04.701Z",
+      "dateLabel": "8/27/2026, 4:11:10 PM - 8/27/2026, 5:09:04 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260827-161110-thxs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260824-172449-5pli",
       "title": "Vikshoots",
       "commanders": [
