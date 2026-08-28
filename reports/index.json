@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-172241-jc7f",
+      "title": "Clapps Evil Genius",
+      "commanders": [
+        "Clapps Evil Genius"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-08-27T23:22:41.000Z",
+      "dateEnd": "2026-08-28T00:57:49.199Z",
+      "dateLabel": "8/27/2026, 5:22:41 PM - 8/27/2026, 6:57:49 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260827-172241-jc7f",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260827-161110-thxs",
       "title": "Vikshoots",
       "commanders": [
