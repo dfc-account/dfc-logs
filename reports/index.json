@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260828-175511-5cco",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "4E8B2FE5-044F-F011-81AC-95DFE50946EB",
+        "name": "One Moar",
+        "tag": "FITE"
+      },
+      "dateStart": "2026-08-28T23:55:11.000Z",
+      "dateEnd": "2026-08-29T00:43:43.300Z",
+      "dateLabel": "8/28/2026, 5:55:11 PM - 8/28/2026, 6:43:43 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260828-175511-5cco",
+      "summary": {
+        "borderlandsPct": 0.16666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260827-172241-jc7f",
       "title": "Clapps Evil Genius",
       "commanders": [
