@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-063035-ifad",
+      "title": "Carvis Onachrono",
+      "commanders": [
+        "Carvis Onachrono"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-29T12:30:35.000Z",
+      "dateEnd": "2026-08-29T13:06:37.540Z",
+      "dateLabel": "8/29/2026, 6:30:35 AM - 8/29/2026, 7:06:37 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260829-063035-ifad",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260828-201403-j4r8",
       "title": "Lumpia Humner",
       "commanders": [
