@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-183028-kgym",
+      "title": "Clappy Murdercakes",
+      "commanders": [
+        "Clappy Murdercakes"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-08-31T00:30:28.000Z",
+      "dateEnd": "2026-08-31T01:59:53.787Z",
+      "dateLabel": "8/30/2026, 6:30:28 PM - 8/30/2026, 7:59:53 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260830-183028-kgym",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260829-063035-ifad",
       "title": "Carvis Onachrono",
       "commanders": [
