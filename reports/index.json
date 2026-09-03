@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260902-173114-7ak7",
+      "title": "Spicy Clapps",
+      "commanders": [
+        "Spicy Clapps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-09-02T23:31:14.000Z",
+      "dateEnd": "2026-09-03T00:12:09.414Z",
+      "dateLabel": "9/2/2026, 5:31:14 PM - 9/2/2026, 6:12:09 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260902-173114-7ak7",
+      "summary": {
+        "borderlandsPct": 0.23404255319148937,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260831-192224-yfoa",
       "title": "Virtuous Claps",
       "commanders": [
