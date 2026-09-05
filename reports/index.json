@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-201759-uy8p",
+      "title": "Spicy Clapps",
+      "commanders": [
+        "Spicy Clapps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-09-05T02:17:59.000Z",
+      "dateEnd": "2026-09-05T03:11:36.287Z",
+      "dateLabel": "9/4/2026, 8:17:59 PM - 9/4/2026, 9:11:36 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260904-201759-uy8p",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260904-152051-dq6g",
       "title": "Tilted Illusion",
       "commanders": [
