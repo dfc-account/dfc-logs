@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-131518-v7e4",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-09-05T19:15:18.000Z",
+      "dateEnd": "2026-09-05T19:51:52.451Z",
+      "dateLabel": "9/5/2026, 1:15:18 PM - 9/5/2026, 1:51:52 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260905-131518-v7e4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260904-201759-uy8p",
       "title": "Spicy Clapps",
       "commanders": [
