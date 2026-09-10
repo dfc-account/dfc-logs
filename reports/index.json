@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-051908-rpbq",
+      "title": "Carvis Onachrono, Carvista",
+      "commanders": [
+        "Carvis Onachrono",
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-09-10T11:19:08.000Z",
+      "dateEnd": "2026-09-10T12:35:39.072Z",
+      "dateLabel": "9/10/2026, 5:19:08 AM - 9/10/2026, 6:35:39 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260910-051908-rpbq",
+      "summary": {
+        "borderlandsPct": 0.23809523809523808,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260909-180859-09nm",
       "title": "Clappy Murdercakes",
       "commanders": [
