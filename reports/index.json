@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-180859-09nm",
+      "title": "Clappy Murdercakes",
+      "commanders": [
+        "Clappy Murdercakes"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-09-10T00:08:59.000Z",
+      "dateEnd": "2026-09-10T01:58:45.378Z",
+      "dateLabel": "9/9/2026, 6:08:59 PM - 9/9/2026, 7:58:45 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260909-180859-09nm",
+      "summary": {
+        "borderlandsPct": 0.12121212121212122,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260905-131518-v7e4",
       "title": "Tilted Illusion",
       "commanders": [
