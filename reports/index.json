@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-182201-yp96",
+      "title": "Clappy Murdercakes, Klapps Of Legend",
+      "commanders": [
+        "Clappy Murdercakes",
+        "Klapps Of Legend"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-09-11T00:22:01.000Z",
+      "dateEnd": "2026-09-11T01:15:17.204Z",
+      "dateLabel": "9/10/2026, 6:22:01 PM - 9/10/2026, 7:15:17 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260910-182201-yp96",
+      "summary": {
+        "borderlandsPct": 0.21666666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 47,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260910-051908-rpbq",
       "title": "Carvis Onachrono, Carvista",
       "commanders": [
