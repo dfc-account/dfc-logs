@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260912-175548-n7j3",
+      "title": "Spicy Clapps",
+      "commanders": [
+        "Spicy Clapps"
+      ],
+      "guild": {
+        "id": "1B96C175-74AD-F111-BB22-12396678E461",
+        "name": "You Cant Hide",
+        "tag": "ICUP"
+      },
+      "dateStart": "2026-09-12T23:55:48.000Z",
+      "dateEnd": "2026-09-13T01:01:39.055Z",
+      "dateLabel": "9/12/2026, 5:55:48 PM - 9/12/2026, 7:01:39 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260912-175548-n7j3",
+      "summary": {
+        "borderlandsPct": 0.5294117647058824,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260911-200920-9n09",
       "title": "Clappy Murdercakes, Spicy Clapps",
       "commanders": [
