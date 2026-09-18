@@ -1,8 +1,36 @@
 {
-  "colorPalette": "amber-warm",
+  "colorPalette": "crimson-red",
   "glassSurfaces": true,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260918-152413-97k8",
+      "title": "Captain Floofpaws",
+      "commanders": [
+        "Captain Floofpaws"
+      ],
+      "guild": {
+        "id": "3EF6FE22-B1CE-EF11-8465-02315AB41281",
+        "name": "Imperium Of Heroes",
+        "tag": "SSS"
+      },
+      "dateStart": "2026-09-18T21:24:13.000Z",
+      "dateEnd": "2026-09-18T21:49:20.893Z",
+      "dateLabel": "9/18/2026, 3:24:13 PM - 9/18/2026, 3:49:20 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260918-152413-97k8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 14
+      }
+    },
     {
       "id": "20260917-182117-c1lp",
       "title": "Spicy Clapps",
