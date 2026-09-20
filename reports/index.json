@@ -1,8 +1,41 @@
 {
-  "colorPalette": "crimson-red",
+  "colorPalette": "electric-blue",
   "glassSurfaces": true,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260919-190454-hd7u",
+      "title": "Klapping Rituals",
+      "commanders": [
+        "Klapping Rituals"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-09-20T01:04:54.000Z",
+      "dateEnd": "2026-09-20T02:01:59.153Z",
+      "dateLabel": "9/19/2026, 7:04:54 PM - 9/19/2026, 8:01:59 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260919-190454-hd7u",
+      "summary": {
+        "borderlandsPct": 0.35135135135135137,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20260918-152413-97k8",
       "title": "Captain Floofpaws",
