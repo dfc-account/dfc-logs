@@ -2,7 +2,41 @@
   "colorPalette": "electric-blue",
   "glassSurfaces": true,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260923-181431-sg9t",
+      "title": "Klapping Rituals",
+      "commanders": [
+        "Klapping Rituals"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-09-24T00:14:31.000Z",
+      "dateEnd": "2026-09-24T01:21:45.852Z",
+      "dateLabel": "9/23/2026, 6:14:31 PM - 9/23/2026, 7:21:45 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20260923-181431-sg9t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 32
+      }
+    },
     {
       "id": "20260922-181245-85c9",
       "title": "Klapping Rituals",
