@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261001-084919-jm42",
+      "title": "Carvis Onachrono",
+      "commanders": [
+        "Carvis Onachrono"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-01T14:49:19.000Z",
+      "dateEnd": "2026-10-01T15:49:04.394Z",
+      "dateLabel": "10/1/2026, 8:49:19 AM - 10/1/2026, 9:49:04 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261001-084919-jm42",
+      "summary": {
+        "borderlandsPct": 0.7647058823529411,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260930-181532-sfs4",
       "title": "Mr Injen",
       "commanders": [
