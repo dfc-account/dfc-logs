@@ -5,6 +5,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261002-063946-5ucc",
+      "title": "Carvis Onachrono",
+      "commanders": [
+        "Carvis Onachrono"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-02T12:39:46.000Z",
+      "dateEnd": "2026-10-02T13:26:28.473Z",
+      "dateLabel": "10/2/2026, 6:39:46 AM - 10/2/2026, 7:26:28 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261002-063946-5ucc",
+      "summary": {
+        "borderlandsPct": 0.4857142857142857,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20261001-174640-wiqn",
       "title": "Pain Tràin",
       "commanders": [
