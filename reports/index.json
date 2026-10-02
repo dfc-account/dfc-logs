@@ -1,9 +1,47 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "axiDesign": false,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20261001-174640-wiqn",
+      "title": "Pain Tràin",
+      "commanders": [
+        "Pain Tràin"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-01T23:46:40.000Z",
+      "dateEnd": "2026-10-02T00:49:32.605Z",
+      "dateLabel": "10/1/2026, 5:46:40 PM - 10/1/2026, 6:49:32 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261001-174640-wiqn",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 26
+      }
+    },
     {
       "id": "20261001-084919-jm42",
       "title": "Carvis Onachrono",
