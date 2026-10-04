@@ -5,6 +5,49 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261003-174714-qeuh",
+      "title": "Tevis De Maros",
+      "commanders": [
+        "Tevis De Maros"
+      ],
+      "guild": {
+        "id": "B588C7DE-8235-4475-83B3-4BF67EA6AEAF",
+        "name": "Alliance Forty Two",
+        "tag": "AFT"
+      },
+      "dateStart": "2026-10-03T23:47:14.000Z",
+      "dateEnd": "2026-10-04T01:14:07.784Z",
+      "dateLabel": "10/3/2026, 5:47:14 PM - 10/3/2026, 7:14:07 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261003-174714-qeuh",
+      "summary": {
+        "borderlandsPct": 0.6071428571428571,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261003-044949-qdx0",
       "title": "Carvista",
       "commanders": [
