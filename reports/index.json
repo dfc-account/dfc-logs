@@ -5,6 +5,50 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261004-182055-xylv",
+      "title": "Metal Legion Pain, Pain Tràin",
+      "commanders": [
+        "Metal Legion Pain",
+        "Pain Tràin"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-05T00:20:55.000Z",
+      "dateEnd": "2026-10-05T01:56:51.446Z",
+      "dateLabel": "10/4/2026, 6:20:55 PM - 10/4/2026, 7:56:51 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261004-182055-xylv",
+      "summary": {
+        "borderlandsPct": 0.8181818181818182,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20261003-174714-qeuh",
       "title": "Tevis De Maros",
       "commanders": [
