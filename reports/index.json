@@ -5,6 +5,45 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261005-055357-o72c",
+      "title": "Carvista, Veiled Klaps",
+      "commanders": [
+        "Carvista",
+        "Veiled Klaps"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-05T11:53:57.000Z",
+      "dateEnd": "2026-10-05T13:05:48.081Z",
+      "dateLabel": "10/5/2026, 5:53:57 AM - 10/5/2026, 7:05:48 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261005-055357-o72c",
+      "summary": {
+        "borderlandsPct": 0.12121212121212122,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261004-182055-xylv",
       "title": "Metal Legion Pain, Pain Tràin",
       "commanders": [
