@@ -1,9 +1,42 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "crimson-red",
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261006-050405-83a8",
+      "title": "Carvis Onachrono",
+      "commanders": [
+        "Carvis Onachrono"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-06T11:04:05.000Z",
+      "dateEnd": "2026-10-06T11:25:00.908Z",
+      "dateLabel": "10/6/2026, 5:04:05 AM - 10/6/2026, 5:25:00 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261006-050405-83a8",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 7
+      }
+    },
     {
       "id": "20261005-175220-c5yw",
       "title": "Pain Tràin",
