@@ -1,13 +1,47 @@
 {
-  "colorPalette": "crimson-red",
-  "axiTheme": "default",
-  "glass": false,
-  "glassSurfaces": false,
+  "colorPalette": "electric-blue",
+  "axiTheme": "glass",
+  "glass": true,
+  "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
     "version": "3.22.1"
   },
   "entries": [
+    {
+      "id": "20261006-172412-9h9i",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-06T23:24:12.000Z",
+      "dateEnd": "2026-10-07T00:52:13.126Z",
+      "dateLabel": "10/6/2026, 5:24:12 PM - 10/6/2026, 6:52:13 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261006-172412-9h9i",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0.9166666666666666,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 44,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 27
+      }
+    },
     {
       "id": "20261006-050405-83a8",
       "title": "Carvis Onachrono",
