@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261008-071644-l5rk",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-08T13:16:44.000Z",
+      "dateEnd": "2026-10-08T13:42:33.732Z",
+      "dateLabel": "10/8/2026, 7:16:44 AM - 10/8/2026, 7:42:33 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261008-071644-l5rk",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20261007-182010-86e4",
       "title": "Pain Tràin",
       "commanders": [
