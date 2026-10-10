@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261010-064747-bmf7",
+      "title": "Carvista, Cyrus The Tactician",
+      "commanders": [
+        "Carvista",
+        "Cyrus The Tactician"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-10T12:47:47.000Z",
+      "dateEnd": "2026-10-10T13:18:03.072Z",
+      "dateLabel": "10/10/2026, 6:47:47 AM - 10/10/2026, 7:18:03 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261010-064747-bmf7",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 47,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261009-201155-x7kd",
       "title": "Pain Tràin",
       "commanders": [
