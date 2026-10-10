@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.2"
   },
   "entries": [
+    {
+      "id": "20261009-174403-wyjz",
+      "title": "Emryl Raine",
+      "commanders": [
+        "Emryl Raine"
+      ],
+      "guild": {
+        "id": "47ECB2EF-6650-E611-80D4-E4115BE8E905",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-10-09T23:44:03.000Z",
+      "dateEnd": "2026-10-10T00:10:06.772Z",
+      "dateLabel": "10/9/2026, 5:44:03 PM - 10/9/2026, 6:10:06 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261009-174403-wyjz",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20261009-073103-jzei",
       "title": "Carvis Ona Enge, Carvis Onachrono",
