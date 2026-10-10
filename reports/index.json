@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261009-201155-x7kd",
+      "title": "Pain Tràin",
+      "commanders": [
+        "Pain Tràin"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-10T02:11:55.000Z",
+      "dateEnd": "2026-10-10T02:28:34.495Z",
+      "dateLabel": "10/9/2026, 8:11:55 PM - 10/9/2026, 8:28:34 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261009-201155-x7kd",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 36,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20261009-174403-wyjz",
       "title": "Emryl Raine",
       "commanders": [
