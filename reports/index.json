@@ -5,9 +5,43 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.2"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261014-175219-kf7f",
+      "title": "Pain Tràin",
+      "commanders": [
+        "Pain Tràin"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-14T23:52:19.000Z",
+      "dateEnd": "2026-10-15T00:56:20.265Z",
+      "dateLabel": "10/14/2026, 5:52:19 PM - 10/14/2026, 6:56:20 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261014-175219-kf7f",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0.15384615384615385,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 35
+      }
+    },
     {
       "id": "20261010-175945-iqiy",
       "title": "Pain Tràin",
