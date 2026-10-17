@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261016-201409-b6pv",
+      "title": "Pain Tràin",
+      "commanders": [
+        "Pain Tràin"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-17T02:14:09.000Z",
+      "dateEnd": "2026-10-17T02:35:24.386Z",
+      "dateLabel": "10/16/2026, 8:14:09 PM - 10/16/2026, 8:35:24 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261016-201409-b6pv",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 54,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20261015-181831-3c5z",
       "title": "Virtuous Claps",
       "commanders": [
