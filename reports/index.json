@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261017-154146-0bhk",
+      "title": "Lady Sparkle Storms",
+      "commanders": [
+        "Lady Sparkle Storms"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-17T21:41:46.000Z",
+      "dateEnd": "2026-10-17T22:29:47.225Z",
+      "dateLabel": "10/17/2026, 3:41:46 PM - 10/17/2026, 4:29:47 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261017-154146-0bhk",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 43,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20261016-201409-b6pv",
       "title": "Pain Tràin",
       "commanders": [
