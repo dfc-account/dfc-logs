@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261018-180702-s0zp",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-19T00:07:02.000Z",
+      "dateEnd": "2026-10-19T02:15:14.236Z",
+      "dateLabel": "10/18/2026, 6:07:02 PM - 10/18/2026, 8:15:14 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261018-180702-s0zp",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0.7105263157894737,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20261017-210633-xa8n",
       "title": "Auorax, Miragesux",
       "commanders": [
