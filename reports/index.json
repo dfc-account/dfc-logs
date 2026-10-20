@@ -5,9 +5,49 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261019-170928-lvij",
+      "title": "Klapping Rituals, Tevis De Maros",
+      "commanders": [
+        "Klapping Rituals",
+        "Tevis De Maros"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-19T23:09:28.000Z",
+      "dateEnd": "2026-10-20T02:01:55.556Z",
+      "dateLabel": "10/19/2026, 5:09:28 PM - 10/19/2026, 8:01:55 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261019-170928-lvij",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 13
+      }
+    },
     {
       "id": "20261018-180702-s0zp",
       "title": "Virtuous Claps",
