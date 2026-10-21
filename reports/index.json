@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261020-193016-2z6r",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-10-21T01:30:16.000Z",
+      "dateEnd": "2026-10-21T02:02:44.860Z",
+      "dateLabel": "10/20/2026, 7:30:16 PM - 10/20/2026, 8:02:44 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261020-193016-2z6r",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20261020-182717-kb0g",
       "title": "Metal Legion Pain",
       "commanders": [
