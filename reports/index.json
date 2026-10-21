@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261020-182717-kb0g",
+      "title": "Metal Legion Pain",
+      "commanders": [
+        "Metal Legion Pain"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-21T00:27:17.000Z",
+      "dateEnd": "2026-10-21T01:12:42.416Z",
+      "dateLabel": "10/20/2026, 6:27:17 PM - 10/20/2026, 7:12:42 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261020-182717-kb0g",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20261019-170928-lvij",
       "title": "Klapping Rituals, Tevis De Maros",
       "commanders": [
