@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261021-181038-hmnc",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-22T00:10:38.000Z",
+      "dateEnd": "2026-10-22T01:13:04.409Z",
+      "dateLabel": "10/21/2026, 6:10:38 PM - 10/21/2026, 7:13:04 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261021-181038-hmnc",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20261020-193016-2z6r",
       "title": "Lightspeed Jack",
       "commanders": [
