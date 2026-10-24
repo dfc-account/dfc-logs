@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261023-202603-3jjm",
+      "title": "Pain Tràin",
+      "commanders": [
+        "Pain Tràin"
+      ],
+      "guild": {
+        "id": "4E8B2FE5-044F-F011-81AC-95DFE50946EB",
+        "name": "One Moar",
+        "tag": "FITE"
+      },
+      "dateStart": "2026-10-24T02:26:03.000Z",
+      "dateEnd": "2026-10-24T03:36:28.753Z",
+      "dateLabel": "10/23/2026, 8:26:03 PM - 10/23/2026, 9:36:28 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261023-202603-3jjm",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20261023-033532-4sa6",
       "title": "Carvista",
       "commanders": [
