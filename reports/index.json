@@ -1,13 +1,42 @@
 {
   "colorPalette": "electric-blue",
-  "axiTheme": "glass",
-  "glass": true,
-  "glassSurfaces": true,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
     "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261026-180823-80c1",
+      "title": "Tevis De Maros",
+      "commanders": [
+        "Tevis De Maros"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-27T00:08:23.000Z",
+      "dateEnd": "2026-10-27T00:52:18.525Z",
+      "dateLabel": "10/26/2026, 6:08:23 PM - 10/26/2026, 6:52:18 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261026-180823-80c1",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 11
+      }
+    },
     {
       "id": "20261025-173227-v0gj",
       "title": "Virtuous Claps",
