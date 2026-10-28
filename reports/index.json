@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261027-175804-piku",
+      "title": "Pain Tràin",
+      "commanders": [
+        "Pain Tràin"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-27T23:58:04.000Z",
+      "dateEnd": "2026-10-28T00:20:10.381Z",
+      "dateLabel": "10/27/2026, 5:58:04 PM - 10/27/2026, 6:20:10 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261027-175804-piku",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0.5833333333333334,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 35,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261026-180823-80c1",
       "title": "Tevis De Maros",
       "commanders": [
