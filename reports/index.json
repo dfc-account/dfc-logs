@@ -1,13 +1,47 @@
 {
   "colorPalette": "electric-blue",
-  "axiTheme": "default",
-  "glass": false,
-  "glassSurfaces": false,
+  "axiTheme": "glass",
+  "glass": true,
+  "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261028-175531-izwa",
+      "title": "Sy Klaps",
+      "commanders": [
+        "Sy Klaps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-10-28T23:55:31.000Z",
+      "dateEnd": "2026-10-29T01:55:13.260Z",
+      "dateLabel": "10/28/2026, 5:55:31 PM - 10/28/2026, 7:55:13 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261028-175531-izwa",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 24
+      }
+    },
     {
       "id": "20261027-175804-piku",
       "title": "Pain Tràin",
