@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261030-032617-anl0",
+      "title": "Carvis Ona Enge",
+      "commanders": [
+        "Carvis Ona Enge"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-10-30T09:26:17.000Z",
+      "dateEnd": "2026-10-30T10:15:49.752Z",
+      "dateLabel": "10/30/2026, 3:26:17 AM - 10/30/2026, 4:15:49 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261030-032617-anl0",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 44,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20261028-175531-izwa",
       "title": "Sy Klaps",
       "commanders": [
