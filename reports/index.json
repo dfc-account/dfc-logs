@@ -9,6 +9,33 @@
   },
   "entries": [
     {
+      "id": "20261031-235920-vi2r",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-01T05:59:20.000Z",
+      "dateEnd": "2026-11-01T06:13:28.700Z",
+      "dateLabel": "10/31/2026, 11:59:20 PM - 11/1/2026, 12:13:28 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261031-235920-vi2r",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 2,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20261031-181157-mhrv",
       "title": "Clappy Murdercakes",
       "commanders": [
