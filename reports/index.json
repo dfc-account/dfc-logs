@@ -1,13 +1,44 @@
 {
   "colorPalette": "electric-blue",
-  "axiTheme": "glass",
-  "glass": true,
-  "glassSurfaces": true,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261103-025715-lhd9",
+      "title": "Carvis Ona Enge, Carvis Onachrono, Carvista",
+      "commanders": [
+        "Carvis Ona Enge",
+        "Carvis Onachrono",
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-11-03T09:57:15.000Z",
+      "dateEnd": "2026-11-03T10:37:40.750Z",
+      "dateLabel": "11/3/2026, 2:57:15 AM - 11/3/2026, 3:37:40 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261103-025715-lhd9",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 18
+      }
+    },
     {
       "id": "20261102-180739-ghwg",
       "title": "Virtuous Claps",
