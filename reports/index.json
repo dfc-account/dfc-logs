@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261102-180739-ghwg",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-03T01:07:39.000Z",
+      "dateEnd": "2026-11-03T01:32:36.301Z",
+      "dateLabel": "11/2/2026, 6:07:39 PM - 11/2/2026, 6:32:36 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261102-180739-ghwg",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0.8372093023255814,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 43,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 29,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20261031-235920-wqdc",
       "title": "Unknown Commander",
       "commanders": [],
