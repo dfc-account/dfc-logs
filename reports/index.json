@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261105-180311-ccuz",
+      "title": "Battle Beast Pain",
+      "commanders": [
+        "Battle Beast Pain"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-06T01:03:11.000Z",
+      "dateEnd": "2026-11-06T01:38:55.226Z",
+      "dateLabel": "11/5/2026, 6:03:11 PM - 11/5/2026, 6:38:55 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261105-180311-ccuz",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 49,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20261104-175659-8zbo",
       "title": "Virtuous Claps",
       "commanders": [
