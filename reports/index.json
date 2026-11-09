@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261109-010721-qyeg",
+      "title": "Tiroz Shadowfang",
+      "commanders": [
+        "Tiroz Shadowfang"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-11-09T08:07:21.000Z",
+      "dateEnd": "2026-11-09T08:38:24.136Z",
+      "dateLabel": "11/9/2026, 1:07:21 AM - 11/9/2026, 1:38:24 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261109-010721-qyeg",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0.3805309734513274,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 70,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 43,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 4
+      }
+    },
+    {
       "id": "20261108-180744-1ns2",
       "title": "Allmighty Clapps",
       "commanders": [
