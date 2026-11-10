@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261109-180840-2szw",
+      "title": "Tevis De Maros",
+      "commanders": [
+        "Tevis De Maros"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-10T01:08:40.000Z",
+      "dateEnd": "2026-11-10T01:33:09.147Z",
+      "dateLabel": "11/9/2026, 6:08:40 PM - 11/9/2026, 6:33:09 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261109-180840-2szw",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 60,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20261109-010721-qyeg",
       "title": "Tiroz Shadowfang",
       "commanders": [
