@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261111-061826-ta0g",
+      "title": "Silver Assaulter",
+      "commanders": [
+        "Silver Assaulter"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-11-11T13:18:26.000Z",
+      "dateEnd": "2026-11-11T13:59:36.506Z",
+      "dateLabel": "11/11/2026, 6:18:26 AM - 11/11/2026, 6:59:36 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261111-061826-ta0g",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 10,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20261111-021607-xyor",
       "title": "Carvis Ona Enge, Carvista",
       "commanders": [
