@@ -5,9 +5,44 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.23.0"
+    "version": "3.24.0"
   },
   "entries": [
+    {
+      "id": "20261111-021607-xyor",
+      "title": "Carvis Ona Enge, Carvista",
+      "commanders": [
+        "Carvis Ona Enge",
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-11-11T09:16:07.000Z",
+      "dateEnd": "2026-11-11T09:49:04.791Z",
+      "dateLabel": "11/11/2026, 2:16:07 AM - 11/11/2026, 2:49:04 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261111-021607-xyor",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 53,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 5
+      }
+    },
     {
       "id": "20261109-180840-2szw",
       "title": "Tevis De Maros",
