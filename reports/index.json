@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261111-071102-hdze",
+      "title": "Silver Assaulter",
+      "commanders": [
+        "Silver Assaulter"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-11-11T14:11:02.000Z",
+      "dateEnd": "2026-11-11T14:56:02.429Z",
+      "dateLabel": "11/11/2026, 7:11:02 AM - 11/11/2026, 7:56:02 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261111-071102-hdze",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 9
+      }
+    },
+    {
       "id": "20261111-061826-ta0g",
       "title": "Silver Assaulter",
       "commanders": [
