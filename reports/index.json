@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261111-174527-0ps1",
+      "title": "Sy Klaps",
+      "commanders": [
+        "Sy Klaps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-12T00:45:27.000Z",
+      "dateEnd": "2026-11-12T01:44:22.568Z",
+      "dateLabel": "11/11/2026, 5:45:27 PM - 11/11/2026, 6:44:22 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261111-174527-0ps1",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 30,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20261111-071102-hdze",
       "title": "Silver Assaulter",
       "commanders": [
