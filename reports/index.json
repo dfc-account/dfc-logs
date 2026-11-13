@@ -9,6 +9,33 @@
   },
   "entries": [
     {
+      "id": "20261112-205158-ir0f",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-13T03:51:58.000Z",
+      "dateEnd": "2026-11-13T04:21:34.754Z",
+      "dateLabel": "11/12/2026, 8:51:58 PM - 11/12/2026, 9:21:34 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261112-205158-ir0f",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 5
+      }
+    },
+    {
       "id": "20261112-180431-myc6",
       "title": "Battle Beast Pain",
       "commanders": [
