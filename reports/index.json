@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261115-191934-cu8u",
+      "title": "Allmighty Clapps, Sy Klaps",
+      "commanders": [
+        "Allmighty Clapps",
+        "Sy Klaps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-16T02:19:34.000Z",
+      "dateEnd": "2026-11-16T03:00:27.406Z",
+      "dateLabel": "11/15/2026, 7:19:34 PM - 11/15/2026, 8:00:27 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261115-191934-cu8u",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 33,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20261114-180357-bvv6",
       "title": "Unknown Commander",
       "commanders": [],
