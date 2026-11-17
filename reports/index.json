@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261116-174818-hb7d",
+      "title": "Tevis De Maros",
+      "commanders": [
+        "Tevis De Maros"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-17T00:48:18.000Z",
+      "dateEnd": "2026-11-17T01:23:02.618Z",
+      "dateLabel": "11/16/2026, 5:48:18 PM - 11/16/2026, 6:23:02 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261116-174818-hb7d",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261115-191934-cu8u",
       "title": "Allmighty Clapps, Sy Klaps",
       "commanders": [
