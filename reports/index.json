@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261117-022054-lkg6",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-11-17T09:20:54.000Z",
+      "dateEnd": "2026-11-17T09:41:24.231Z",
+      "dateLabel": "11/17/2026, 2:20:54 AM - 11/17/2026, 2:41:24 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261117-022054-lkg6",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 108,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20261116-174818-hb7d",
       "title": "Tevis De Maros",
       "commanders": [
