@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261118-180540-x7q6",
+      "title": "Sy Klaps",
+      "commanders": [
+        "Sy Klaps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-19T01:05:40.000Z",
+      "dateEnd": "2026-11-19T02:14:10.159Z",
+      "dateLabel": "11/18/2026, 6:05:40 PM - 11/18/2026, 7:14:10 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261118-180540-x7q6",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20261117-180612-p0w6",
       "title": "Battle Beast Pain",
       "commanders": [
