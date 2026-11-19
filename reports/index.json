@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261119-034033-lo1k",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-11-19T10:40:33.000Z",
+      "dateEnd": "2026-11-19T12:28:13.173Z",
+      "dateLabel": "11/19/2026, 3:40:33 AM - 11/19/2026, 5:28:13 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261119-034033-lo1k",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 57,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20261118-180540-x7q6",
       "title": "Sy Klaps",
       "commanders": [
