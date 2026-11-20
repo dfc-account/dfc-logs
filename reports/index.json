@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261120-052159-i0xc",
+      "title": "Beth Bottombuster, Fiery Clapps",
+      "commanders": [
+        "Beth Bottombuster",
+        "Fiery Clapps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-20T12:21:59.000Z",
+      "dateEnd": "2026-11-20T13:14:51.157Z",
+      "dateLabel": "11/20/2026, 5:21:59 AM - 11/20/2026, 6:14:51 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261120-052159-i0xc",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 71,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 10
+      }
+    },
+    {
       "id": "20261119-181416-96ye",
       "title": "Micro Pain",
       "commanders": [
