@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261120-180834-d7vp",
+      "title": "Fiery Clapps",
+      "commanders": [
+        "Fiery Clapps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-21T01:08:34.000Z",
+      "dateEnd": "2026-11-21T01:39:08.044Z",
+      "dateLabel": "11/20/2026, 6:08:34 PM - 11/20/2026, 6:39:08 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261120-180834-d7vp",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 48,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261120-052159-i0xc",
       "title": "Beth Bottombuster, Fiery Clapps",
       "commanders": [
