@@ -1,13 +1,42 @@
 {
   "colorPalette": "electric-blue",
-  "axiTheme": "glass",
-  "glass": true,
-  "glassSurfaces": true,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
     "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261121-232143-5y5d",
+      "title": "Tony The Tortoise",
+      "commanders": [
+        "Tony The Tortoise"
+      ],
+      "guild": {
+        "id": "65A0E5D5-6518-EB11-81AA-A77AA130EAB8",
+        "name": "Flying Tortoises",
+        "tag": "FTL"
+      },
+      "dateStart": "2026-11-22T06:21:43.000Z",
+      "dateEnd": "2026-11-22T06:52:30.580Z",
+      "dateLabel": "11/21/2026, 11:21:43 PM - 11/21/2026, 11:52:30 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261121-232143-5y5d",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 31
+      }
+    },
     {
       "id": "20261120-180834-d7vp",
       "title": "Fiery Clapps",
