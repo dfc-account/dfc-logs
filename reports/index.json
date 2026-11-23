@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261123-021459-02s4",
+      "title": "Klapps Le Natural",
+      "commanders": [
+        "Klapps Le Natural"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-11-23T09:14:59.000Z",
+      "dateEnd": "2026-11-23T09:48:34.508Z",
+      "dateLabel": "11/23/2026, 2:14:59 AM - 11/23/2026, 2:48:34 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261123-021459-02s4",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 53,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20261122-182201-iw5j",
       "title": "Fiery Clapps",
       "commanders": [
