@@ -1,13 +1,42 @@
 {
   "colorPalette": "electric-blue",
-  "axiTheme": "default",
-  "glass": false,
-  "glassSurfaces": false,
+  "axiTheme": "glass",
+  "glass": true,
+  "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
     "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261122-182201-iw5j",
+      "title": "Fiery Clapps",
+      "commanders": [
+        "Fiery Clapps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-23T01:22:01.000Z",
+      "dateEnd": "2026-11-23T01:56:50.930Z",
+      "dateLabel": "11/22/2026, 6:22:01 PM - 11/22/2026, 6:56:50 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261122-182201-iw5j",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 37,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 26
+      }
+    },
     {
       "id": "20261121-232143-5y5d",
       "title": "Tony The Tortoise",
