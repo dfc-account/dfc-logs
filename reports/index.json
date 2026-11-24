@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261124-100715-llfr",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-11-24T17:07:15.000Z",
+      "dateEnd": "2026-11-24T17:53:20.186Z",
+      "dateLabel": "11/24/2026, 10:07:15 AM - 11/24/2026, 10:53:20 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261124-100715-llfr",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261124-033442-0sop",
       "title": "Carvis Ona Enge, Carvista",
       "commanders": [
