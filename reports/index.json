@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261123-195048-ko0e",
+      "title": "Prosecute, Tevis De Maros",
+      "commanders": [
+        "Prosecute",
+        "Tevis De Maros"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-24T02:50:48.000Z",
+      "dateEnd": "2026-11-24T03:13:59.250Z",
+      "dateLabel": "11/23/2026, 7:50:48 PM - 11/23/2026, 8:13:59 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261123-195048-ko0e",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 24,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261123-181020-00nx",
       "title": "Tevis De Maros",
       "commanders": [
