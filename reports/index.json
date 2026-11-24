@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261123-181020-00nx",
+      "title": "Tevis De Maros",
+      "commanders": [
+        "Tevis De Maros"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-24T01:10:20.000Z",
+      "dateEnd": "2026-11-24T02:28:55.627Z",
+      "dateLabel": "11/23/2026, 6:10:20 PM - 11/23/2026, 7:28:55 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261123-181020-00nx",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261123-053104-9tfw",
       "title": "Carvista",
       "commanders": [
