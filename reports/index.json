@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261125-184124-4k0l",
+      "title": "Allmighty Clapps",
+      "commanders": [
+        "Allmighty Clapps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-26T01:41:24.000Z",
+      "dateEnd": "2026-11-26T02:36:34.457Z",
+      "dateLabel": "11/25/2026, 6:41:24 PM - 11/25/2026, 7:36:34 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261125-184124-4k0l",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 22,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261124-100715-llfr",
       "title": "Carvista",
       "commanders": [
