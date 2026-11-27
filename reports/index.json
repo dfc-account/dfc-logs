@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261126-183453-4hik",
+      "title": "Battle Beast Pain",
+      "commanders": [
+        "Battle Beast Pain"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-27T01:34:53.000Z",
+      "dateEnd": "2026-11-27T02:37:36.931Z",
+      "dateLabel": "11/26/2026, 6:34:53 PM - 11/26/2026, 7:37:36 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261126-183453-4hik",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 2,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261126-091251-f6gu",
       "title": "Carvis Onachrono",
       "commanders": [
