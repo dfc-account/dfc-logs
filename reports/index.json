@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261128-051244-ttn3",
+      "title": "Carvista",
+      "commanders": [
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-11-28T12:12:44.000Z",
+      "dateEnd": "2026-11-28T13:23:51.558Z",
+      "dateLabel": "11/28/2026, 5:12:44 AM - 11/28/2026, 6:23:51 AM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261128-051244-ttn3",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 3,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261127-191104-ejoj",
       "title": "Battle Beast Pain",
       "commanders": [
