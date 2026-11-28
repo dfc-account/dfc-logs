@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261127-191104-ejoj",
+      "title": "Battle Beast Pain",
+      "commanders": [
+        "Battle Beast Pain"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-11-28T02:11:04.000Z",
+      "dateEnd": "2026-11-28T02:59:25.065Z",
+      "dateLabel": "11/27/2026, 7:11:04 PM - 11/27/2026, 7:59:25 PM",
+      "url": "https://dfc-account.github.io/dfc-logs/?report=20261127-191104-ejoj",
+      "publishedBy": "dfc-account",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 43,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261127-052807-iiy8",
       "title": "Carvista",
       "commanders": [
